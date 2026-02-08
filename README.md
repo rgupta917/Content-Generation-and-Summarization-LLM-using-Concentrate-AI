@@ -167,3 +167,12 @@ Select a concrete model (default behavior in this app).
 ## License
 
 This project was created as a take-home assignment and demonstration project.
+
+---
+
+## Screenshots
+
+![Generate](Image1.jpeg)
+![Summarize](Image2.jpeg)
+![Compare](Image3.jpeg)
+![Fallback/Stats](Image4.jpeg)
